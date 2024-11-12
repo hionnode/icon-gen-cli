@@ -17,5 +17,10 @@
     "nanospinner": "^1.2.0",
     "sharp": "^0.33.5"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0",
+    "husky": "^9.1.6"
+  }
 }
