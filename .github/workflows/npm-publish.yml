@@ -34,9 +34,6 @@ jobs:
       - name: Update version in package.json
         run: |
           npm version ${{ steps.get-version.outputs.version }} --no-git-tag-version
-          
-      - name: Build
-        run: npm run build
       
       - name: Publish to NPM
         run: npm publish
