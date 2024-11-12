@@ -8,7 +8,6 @@ A command-line tool to generate custom icons in SVG and PNG formats. Create basi
 
 - 📐 Basic Shapes: circle, square, triangle, hexagon, star, donut, heart
 - 🎨 Pattern Generation: geometric, dots, stripes, zigzag, mosaic
-- 😀 Emoji to Icon conversion
 - 🎯 Multiple output formats (SVG, PNG)
 - 🌈 Custom colors and gradients
 - 🖼️ Adjustable sizes
