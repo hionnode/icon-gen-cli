@@ -5,6 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "icon-gen-cli": "./index.js"
+  },
   "author": "Chinmay",
   "license": "MIT",
   "description": "",
@@ -13,5 +16,6 @@
     "inquirer": "^12.1.0",
     "nanospinner": "^1.2.0",
     "sharp": "^0.33.5"
-  }
+  },
+  "preferGlobal": true
 }
